@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a student and researcher at HiTZ Center at UPV/EHU, where I focus on Natural Language Processing (NLP). At the same time, I'm pursuing a master's Hizkuntzaren Analisia eta prozesamendua / Language Analysis and Processing (HAP/LAP), also in UPV/EHU. My background is in Informatics with a specialization in Computer Science.
+I'm a student and researcher at HiTZ Center at UPV/EHU, where I focus on Natural Language Processing (NLP). At the same time, I'm pursuing a master's in Hizkuntzaren Analisia eta prozesamendua / Language Analysis and Processing (HAP/LAP), also in UPV/EHU. My background is in Informatics with a specialization in Computer Science.
 
 <!--
 **telmobriones/telmobriones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
